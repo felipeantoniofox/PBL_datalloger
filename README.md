@@ -5,11 +5,11 @@ Trabalho de desenvolvimento de um datalogger para disciplina de Sistemas Embarca
 
 Aqui estão os datasheets dos componentes usados no projeto:
 
-- [ATMEGA48P](datasheets/Datasheet-ATMEGA48P.pdf)
-- [Batereia 9V](datasheets/Datasheet-Bateria9V.pdf)
-- [Buzzer](datasheets/Datasheet-Buzzer.pdf)
-- [DHT11](datasheets/Datasheet-DHT11.pdf)
-- [LDR](datasheets/Datasheet-LDR.pdf)
-- [Protoboard](datasheets/Datasheet-Protoboard.pdf)
-- [RTCDS1307](datasheets/Datasheet-RTCDS1307.pdf)
-- [SSD1306](datasheets/Datasheet-SSD1306.pdf)
+- [ATMEGA48P](Datasheets/Datasheet-ATMEGA48P.pdf)
+- [Batereia 9V](Datasheets/Datasheet-Bateria9V.pdf)
+- [Buzzer](Datasheets/Datasheet-Buzzer.pdf)
+- [DHT11](Datasheets/Datasheet-DHT11.pdf)
+- [LDR](Datasheets/Datasheet-LDR.pdf)
+- [Protoboard](Datasheets/Datasheet-Protoboard.pdf)
+- [RTCDS1307](Datasheets/Datasheet-RTCDS1307.pdf)
+- [SSD1306](Datasheets/Datasheet-SSD1306.pdf)
